@@ -24,4 +24,10 @@
 
 构建保留 3 个 Webpack 性能警告，主要涉及离线 WASM、模型和弹窗脚本的体积。此处保留离线识别资源，未改成外部下载。
 
-本次整理添加了 MIT 许可证文本、上游及组件来源说明，并使生产构建包含许可证和第三方声明。GitHub 工作流检查 lint 和 Edge 构建；浏览器验证在本地运行。工作流尚未上传运行。
+本次整理添加了 MIT 许可证文本、上游及组件来源说明，并使生产构建包含许可证和第三方声明。GitHub 工作流检查 lint 和 Edge 构建；浏览器验证在本地运行。
+
+## GitHub 发布验证
+
+2026-10-21 已上传至公开仓库 [QHHJ/qr-lite-edge](https://github.com/QHHJ/qr-lite-edge)，默认分支为 main。
+
+首次源码提交 3be30fd216026a0a860435ba545e98911d222271 的 [Linux CI 检查](https://github.com/QHHJ/qr-lite-edge/actions/runs/39568065993)已通过，包含依赖安装、lint 和 Edge 生产构建。
