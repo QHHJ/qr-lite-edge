@@ -1,0 +1,345 @@
+{
+  "extension_name": {
+    "message": "QR Lite - Penjana dan Pengimbas Kod QR"
+  },
+  "extension_short_name": {
+    "message": "QR Lite",
+    "description": "[keep-original]"
+  },
+  "extension_description": {
+    "message": "Hasilkan atau imbas kod QR di luar talian."
+  },
+  "save_image_btn": {
+    "message": "Simpan"
+  },
+  "save_image_btn_title": {
+    "message": "Simpan imej kod QR ini"
+  },
+  "copy_image_btn": {
+    "message": "Salin"
+  },
+  "copy_image_btn_title": {
+    "message": "Salin imej kod QR ini ke papan klip"
+  },
+  "copy_image_ok": {
+    "message": "Disalin!"
+  },
+  "open_url_btn": {
+    "message": "Buka URL"
+  },
+  "open_url_btn_title": {
+    "message": "Buka URL yang diimbas dalam tab baharu"
+  },
+  "tab_generate_title": {
+    "message": "Hasilkan"
+  },
+  "tab_scan_title": {
+    "message": "Imbas"
+  },
+  "tab_history_title": {
+    "message": "Sejarah"
+  },
+  "clear_history_btn": {
+    "message": "Kosongkan"
+  },
+  "clear_history_btn_title": {
+    "message": "Kosongkan sejarah"
+  },
+  "disable_history_btn_title": {
+    "message": "Jeda rakaman sejarah"
+  },
+  "disable_history_btn_label": {
+    "message": "Hentikan"
+  },
+  "enable_history_btn_title": {
+    "message": "Sambung semula rakaman sejarah"
+  },
+  "enable_history_btn_label": {
+    "message": "Sambung semula"
+  },
+  "remove_history_btn_title": {
+    "message": "Buang entri ini daripada sejarah"
+  },
+  "github_link_title": {
+    "message": "Lawati halaman projek QR Lite di Github"
+  },
+  "toggle_generator_options_btn_label": {
+    "message": "Pilihan"
+  },
+  "toggle_generator_options_btn_title": {
+    "message": "Tunjukkan/sembunyikan pilihan penjana kod QR"
+  },
+  "error_correction_level_btn_low_title": {
+    "message": "Rendah, 7% daripada bait data boleh dipulihkan"
+  },
+  "error_correction_level_btn_medium_title": {
+    "message": "Sederhana, 15% daripada bait data boleh dipulihkan"
+  },
+  "error_correction_level_btn_quartile_title": {
+    "message": "Suku, 25% daripada bait data boleh dipulihkan"
+  },
+  "error_correction_level_btn_high_title": {
+    "message": "Tinggi, 30% daripada bait data boleh dipulihkan"
+  },
+  "error_correction_level_label": {
+    "message": "Pembetulan:"
+  },
+  "error_correction_level_label_title": {
+    "message": "Tahap pembetulan ralat"
+  },
+  "content_length_label_title": {
+    "message": "Panjang kandungan kod QR dalam aksara"
+  },
+  "finder_style_label": {
+    "message": "Gaya pencari:"
+  },
+  "finder_style_label_title": {
+    "message": "Pilih gaya untuk corak pencari (tiga penanda sudut)"
+  },
+  "module_style_label": {
+    "message": "Gaya modul:"
+  },
+  "module_style_label_title": {
+    "message": "Pilih gaya untuk modul data"
+  },
+  "image_size_label": {
+    "message": "Saiz imej:"
+  },
+  "image_size_label_title": {
+    "message": "Tetapkan saiz imej untuk kod QR"
+  },
+  "content_length_label": {
+    "message": "Panjang:"
+  },
+  "content_title": {
+    "message": "Kandungan kod QR"
+  },
+  "content_placeholder": {
+    "message": "Taip beberapa teks untuk menjana kod QR"
+  },
+  "context_menu_make_qr_code_for_link": {
+    "message": "Hasilkan kod QR untuk pautan ini"
+  },
+  "context_menu_make_qr_code_for_selected_text": {
+    "message": "Hasilkan kod QR untuk \"%s\""
+  },
+  "context_menu_scan_qr_code_in_image": {
+    "message": "Imbas kod QR dalam imej"
+  },
+  "context_menu_pick_region_to_scan": {
+    "message": "Pilih rantau untuk diimbas…"
+  },
+  "context_menu_scan_with_camera": {
+    "message": "Imbas dengan kamera"
+  },
+  "scan_region_picker_tips_scrollwheel": {
+    "message": "Roda skrol"
+  },
+  "scan_region_picker_tips_adjust_size": {
+    "message": "Laraskan saiz"
+  },
+  "scan_region_picker_tips_leftclick": {
+    "message": "Klik kiri"
+  },
+  "scan_region_picker_tips_scan": {
+    "message": "Imbas"
+  },
+  "scan_region_picker_tips_esc": {
+    "message": "Esc",
+    "description": "[keep-original]"
+  },
+  "scan_region_picker_tips_exit": {
+    "message": "Keluar"
+  },
+  "copy_btn": {
+    "message": "Salin"
+  },
+  "copy_btn_copied": {
+    "message": "Disalin"
+  },
+  "decoding_failed": {
+    "message": "Penyahkodan gagal: $MSG$",
+    "placeholders": {
+      "msg": {
+        "content": "$1",
+        "default": "Ralat tidak diketahui"
+      }
+    }
+  },
+  "unable_to_decode": {
+    "message": "Tidak dapat menyahkod kod QR"
+  },
+  "scan_instructions_html": {
+    "message": "Klik kanan pada sebarang imej dan pilih<br>\"<img class=\"icon\" src=\"../icons/qrlite.svg\"></img> Imbas kod QR dalam imej ini\""
+  },
+  "scan_from_clipboard_instructions_html": {
+    "message": "Untuk mengimbas imej dari papan klip, tekan<br><kbd>Ctrl</kbd> + <kbd>V</kbd> <br> atau <kbd>⌘</kbd> + <kbd>V</kbd> pada Mac"
+  },
+  "pick_region_to_scan_btn": {
+    "message": "Pilih rantau untuk diimbas"
+  },
+  "camera_scan_btn": {
+    "message": "Imbas dengan kamera"
+  },
+  "rescan_btn_label": {
+    "message": "Imbasan baharu"
+  },
+  "rescan_btn_title": {
+    "message": "Mulakan imbasan lain"
+  },
+  "grant_permissions_instructions_html": {
+    "message": "Ciri ini memerlukan kebenaran tambahan berikut.<br><br><strong>$PERMISSION$</strong><br>",
+    "placeholders": {
+      "permission": {
+        "content": "$1"
+      }
+    }
+  },
+  "grant_permissions_btn": {
+    "message": "Berikan kebenaran"
+  },
+  "grant_camera_permission_name": {
+    "message": "Akses ke kamera anda"
+  },
+  "grant_permissions_window_title": {
+    "message": "Berikan kebenaran"
+  },
+  "grant_camera_initial_instructions_firefox_html": {
+    "message": "Anda akan memberi QR Lite akses ke kamera anda.<br><br>Apabila anda ditanya sama ada mahu membenarkan QR Lite menggunakan kamera anda, sila pastikan kotak semak <strong>\"Ingat untuk semua kamera\"</strong> ditanda, kemudian klik <strong>\"Benarkan\"</strong>.<br><br>Klik butang di bawah untuk bermula."
+  },
+  "grant_camera_initial_instructions_chrome_html": {
+    "message": "Anda akan memberi QR Lite akses ke kamera anda.<br><br>Apabila anda ditanya sama ada mahu membenarkan QR Lite menggunakan kamera anda, sila pilih <strong>\"Benarkan semasa melawati laman\"</strong>.<br><br>Klik butang di bawah untuk bermula."
+  },
+  "grant_camera_blocked_instructions_firefox_html": {
+    "message": "Nampaknya QR Lite <strong>disekat</strong> daripada menggunakan kamera.<br><br>Untuk mengubah tetapan ini, klik ikon <img class=\"icon icon-invert\" src=\"../icons/no-camera.svg\"></img> di sebelah kiri bar alamat, dan <strong>buang</strong> status \"Disekat\" pada baris \"Gunakan kamera\".<br><br>Setelah melakukan ini, muat semula halaman ini."
+  },
+  "grant_camera_blocked_instructions_chrome_html": {
+    "message": "Nampaknya QR Lite <strong>disekat</strong> daripada menggunakan kamera.<br><br>Untuk mengubah tetapan ini, klik ikon <img class=\"icon icon-invert\" src=\"../icons/no-camera.svg\"></img> pada bar alamat, dan pilih <strong>Sentiasa benarkan QR Lite - Penjana dan Pengimbas Kod QR mengakses kamera anda</strong>.<br><br>Setelah melakukan ini, muat semula halaman ini."
+  },
+  "grant_camera_granted_instructions_html": {
+    "message": "QR Lite telah berjaya mendapat akses ke kamera.<br><br>Anda kini boleh menutup halaman ini."
+  },
+  "grant_page_refresh_btn": {
+    "message": "Muat semula"
+  },
+  "grant_page_dont_see_icon_btn_html": {
+    "message": "Saya tidak dapat mencari ikon <img class=\"icon icon-invert\" src=\"../icons/no-camera.svg\"></img>!"
+  },
+  "grant_page_dont_see_icon_instructions_html": {
+    "message": "Sesetengah pelayar menyembunyikan ikon selepas beberapa saat. Sila klik butang di bawah untuk memaparkannya."
+  },
+  "grant_page_dont_see_icon_instructions_reveal_icon_btn_label": {
+    "message": "Tunjuk ikon"
+  },
+  "grant_page_close_btn": {
+    "message": "Tutup"
+  },
+  "or": {
+    "message": "atau"
+  },
+  "scanning": {
+    "message": "Mengimbas…"
+  },
+  "unable_to_decode_qr_code": {
+    "message": "Tidak dapat menyahkod kod QR"
+  },
+  "browser_action_command_description": {
+    "message": "Tunjukkan tetingkap timbul"
+  },
+  "select_region_to_scan_command_description": {
+    "message": "Pilih rantau untuk diimbas"
+  },
+  "scan_with_camera_command_description": {
+    "message": "Imbas dengan kamera"
+  },
+  "picker_close_btn_title": {
+    "message": "Tutup"
+  },
+  "select_region_to_scan_open_command_description": {
+    "message": "Pilih rantau untuk imbasan dan buka URL"
+  },
+  "select_region_to_scan_open_new_bg_tab_command_description": {
+    "message": "Pilih rantau untuk imbasan dan buka URL dalam tab latar belakang baharu"
+  },
+  "select_region_to_scan_open_new_fg_tab_command_description": {
+    "message": "Pilih rantau untuk imbasan dan buka URL dalam tab latar depan baharu"
+  },
+  "picker_url_mode_auto_open_no": {
+    "message": "Jangan buka URL secara automatik"
+  },
+  "picker_url_mode_auto_open_in_current_tab": {
+    "message": "Buka URL secara automatik dalam tab semasa"
+  },
+  "picker_url_mode_auto_open_in_bg_tab": {
+    "message": "Buka URL secara automatik dalam tab latar belakang baharu"
+  },
+  "picker_url_mode_auto_open_in_fg_tab": {
+    "message": "Buka URL secara automatik dalam tab latar depan baharu"
+  },
+  "copy_btn_title": {
+    "message": "Salin ke papan klip"
+  },
+  "grant_permissions_error_details_summary": {
+    "message": "Butiran ralat"
+  },
+  "grant_camera_unusable_instructions_html": {
+    "message": "Nampaknya kamera tidak dapat diakses. Adakah program lain menggunakan kamera?<br><br>Sila tutup program lain yang mungkin menggunakan kamera, kemudian segarkan halaman ini."
+  },
+  "grant_camera_unknow_error_instructions_html": {
+    "message": "Ralat tidak diketahui berlaku semasa cuba mendapatkan akses kamera.<br><br>Sila segarkan halaman ini dan cuba lagi."
+  },
+  "unable_to_access_camera": {
+    "message": "Tidak dapat mengakses kamera. Adakah program lain menggunakan kamera?"
+  },
+  "settings_window_title": {
+    "message": "Tetapan QR Lite"
+  },
+  "settings_scan_success_sound_enabled_label": {
+    "message": "Mainkan bunyi apabila imbasan berjaya"
+  },
+  "settings_scan_success_sound_enabled_explainer": {
+    "message": "Mainkan bunyi bip apabila kod QR berjaya diimbas."
+  },
+  "settings_white_on_black_qr_ccode_in_dark_mode_label": {
+    "message": "Jana Kod QR putih di latar belakang hitam dalam mod gelap"
+  },
+  "settings_white_on_black_qr_ccode_in_dark_mode_explainer": {
+    "message": "Dalam mod gelap, jana Kod QR dengan warna latar depan terang di latar belakang gelap. Sesetengah pengimbas mungkin menghadapi masalah mengimbas Kod QR tersebut. Kod QR yang anda simpan atau salin melalui butang \"Simpan\" dan \"Salin\" akan sentiasa mempunyai latar belakang putih dan latar depan hitam."
+  },
+  "settings_scanner_legend": {
+    "message": "Pengimbas Kod QR"
+  },
+  "settings_generator_legend": {
+    "message": "Penjana Kod QR"
+  },
+  "tab_settings_title": {
+    "message": "Ubah tetapan QR Lite"
+  },
+  "settings_config_keyboard_shortcuts_btn_label": {
+    "message": "Konfigurasi Pintasan Papan Kekunci"
+  },
+  "unable_to_access_camera_unknown_error": {
+    "message": "Tidak dapat mengakses kamera. Ralat yang tidak dijangka berlaku."
+  },
+  "scan_region_picker_tips_rescan": {
+    "message": "Imbasan baharu"
+  },
+  "scan_region_picker_tips_open_url_mode_title": {
+    "message": "Pilih cara mengendalikan URL dalam hasil imbasan"
+  },
+  "unable_to_load_image": {
+    "message": "Tidak dapat memuatkan imej"
+  },
+  "settings_picker_pause_videos_onload_enabled_label": {
+    "message": "Jeda semua video semasa \"Pilih rantau untuk diimbas\""
+  },
+  "settings_picker_pause_videos_onload_enabled_explainer": {
+    "message": "Ini menjedakan video semasa anda memilih rantau imbasan, jadi anda tidak terlepas sebarang kod QR."
+  },
+  "image_scanner_failed_to_load_image": {
+    "message": "Imej gagal dimuatkan. Sumbernya mungkin tidak boleh diakses atau dihadkan. Cuba imbas sebahagian skrin."
+  },
+  "loading_image": {
+    "message": "Memuatkan imej..."
+  }
+}

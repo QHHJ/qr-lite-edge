@@ -1,0 +1,361 @@
+{
+  "extension_name": {
+    "message": "QR Lite - QR Code Generator and Scanner"
+  },
+  "extension_short_name": {
+    "message": "QR Lite"
+  },
+  "extension_description": {
+    "message": "Generate or scan QR codes offline."
+  },
+  "save_image_btn": {
+    "message": "Save"
+  },
+  "save_image_btn_title": {
+    "message": "Save this QR code image"
+  },
+  "copy_image_btn": {
+    "message": "Copy"
+  },
+  "copy_image_btn_title": {
+    "message": "Copy this QR code image to the clipboard"
+  },
+  "copy_image_ok": {
+    "message": "Copied!"
+  },
+  "open_url_btn": {
+    "message": "Open URL"
+  },
+  "open_url_btn_title": {
+    "message": "Open the scanned URL in a new tab"
+  },
+  "tab_generate_title": {
+    "message": "Create"
+  },
+  "tab_scan_title": {
+    "message": "Scan"
+  },
+  "tab_history_title": {
+    "message": "History"
+  },
+  "clear_history_btn": {
+    "message": "Clear"
+  },
+  "clear_history_btn_title": {
+    "message": "Clear history"
+  },
+  "disable_history_btn_title": {
+    "message": "Pause history recording"
+  },
+  "disable_history_btn_label": {
+    "message": "Pause"
+  },
+  "enable_history_btn_title": {
+    "message": "Resume history recording"
+  },
+  "enable_history_btn_label": {
+    "message": "Resume"
+  },
+  "remove_history_btn_title": {
+    "message": "Remove this entry from history"
+  },
+  "github_link_title": {
+    "message": "Visit QR Lite's project page on Github"
+  },
+  "toggle_generator_options_btn_label": {
+    "message": "Options"
+  },
+  "toggle_generator_options_btn_title": {
+    "message": "Show/hide QR code generator options"
+  },
+  "error_correction_level_btn_low_title": {
+    "message": "Low, 7% of data bytes can be restored"
+  },
+  "error_correction_level_btn_medium_title": {
+    "message": "Medium, 15% of data bytes can be restored"
+  },
+  "error_correction_level_btn_quartile_title": {
+    "message": "Quartile, 25% of data bytes can be restored"
+  },
+  "error_correction_level_btn_high_title": {
+    "message": "High, 30% of data bytes can be restored"
+  },
+  "error_correction_level_label": {
+    "message": "Correction:"
+  },
+  "error_correction_level_label_title": {
+    "message": "Error correction level"
+  },
+  "finder_style_label": {
+    "message": "Finder style:"
+  },
+  "finder_style_label_title": {
+    "message": "Select a style for the finder patterns (the three corner markers)"
+  },
+  "module_style_label": {
+    "message": "Module style:"
+  },
+  "module_style_label_title": {
+    "message": "Select a style for the data modules"
+  },
+  "image_size_label": {
+    "message": "Image size:"
+  },
+  "image_size_label_title": {
+    "message": "Set the image size for the QR code"
+  },
+  "content_length_label_title": {
+    "message": "Length of the QR code content in characters"
+  },
+  "content_length_label": {
+    "message": "Length:"
+  },
+  "content_title": {
+    "message": "QR code content"
+  },
+  "content_placeholder": {
+    "message": "Type in some text to generate a QR code"
+  },
+  "context_menu_make_qr_code_for_link": {
+    "message": "Generate QR Code for This Link"
+  },
+  "context_menu_make_qr_code_for_selected_text": {
+    "message": "Generate QR Code for \"%s\""
+  },
+  "context_menu_scan_qr_code_in_image": {
+    "message": "Scan QR Code in Image"
+  },
+  "context_menu_pick_region_to_scan": {
+    "message": "Select Region to Scan..."
+  },
+  "context_menu_scan_with_camera": {
+    "message": "Scan with Camera"
+  },
+  "scan_region_picker_tips_scrollwheel": {
+    "message": "Scroll Wheel"
+  },
+  "scan_region_picker_tips_adjust_size": {
+    "message": "Adjust Size"
+  },
+  "scan_region_picker_tips_leftclick": {
+    "message": "Left Click"
+  },
+  "scan_region_picker_tips_scan": {
+    "message": "Drag to select / click to scan"
+  },
+  "scan_region_picker_tips_esc": {
+    "message": "Esc"
+  },
+  "scan_region_picker_tips_exit": {
+    "message": "Exit"
+  },
+  "scan_region_picker_tips_rescan": {
+    "message": "New Scan"
+  },
+  "scan_region_picker_tips_open_url_mode_title": {
+    "message": "Choose how to handle URLs in scan results"
+  },
+  "copy_btn": {
+    "message": "Copy"
+  },
+  "copy_btn_title": {
+    "message": "Copy to the clipboard"
+  },
+  "copy_btn_copied": {
+    "message": "Copied"
+  },
+  "decoding_failed": {
+    "message": "Decoding failed: $MSG$",
+    "placeholders": {
+      "msg": {
+        "content": "$1",
+        "default": "Unknown error"
+      }
+    }
+  },
+  "unable_to_decode": {
+    "message": "Unable to decode QR code"
+  },
+  "unable_to_load_image": {
+    "message": "Unable to load image"
+  },
+  "loading_image": {
+    "message": "Loading image..."
+  },
+  "image_scanner_failed_to_load_image": {
+    "message": "The image failed to load. Its source might be inaccessible or restricted. Try scanning a region of the screen instead."
+  },
+  "scan_instructions_html": {
+    "message": "Right-click on any image and choose<br>\"<img class=\"icon\" src=\"../icons/qrlite.svg\"></img> Scan QR Code in This Image\""
+  },
+  "scan_from_clipboard_instructions_html": {
+    "message": "Scan clipboard image by pressing<br><kbd>Ctrl</kbd> + <kbd>V</kbd> <br> or <kbd>⌘</kbd> + <kbd>V</kbd> on Mac"
+  },
+  "pick_region_to_scan_btn": {
+    "message": "Select region to scan"
+  },
+  "camera_scan_btn": {
+    "message": "Scan with camera"
+  },
+  "rescan_btn_label": {
+    "message": "New scan"
+  },
+  "rescan_btn_title": {
+    "message": "Initiate another scan"
+  },
+  "grant_permissions_instructions_html": {
+    "message": "This feature requires the following additional permission.<br><br><strong>$PERMISSION$</strong><br>",
+    "placeholders": {
+      "permission": {
+        "content": "$1"
+      }
+    }
+  },
+  "grant_permissions_btn": {
+    "message": "Grant permission"
+  },
+  "grant_camera_permission_name": {
+    "message": "Access to your camera"
+  },
+  "grant_permissions_window_title": {
+    "message": "Grant permission"
+  },
+  "grant_permissions_error_details_summary": {
+    "message": "Error details"
+  },
+  "grant_camera_initial_instructions_firefox_html": {
+    "message": "You're about to grant QR Lite access to your camera.<br><br>When asked whether to allow QR Lite to use your camera, please make sure the <strong>\"Remember for all cameras\"</strong> checkbox is checked, then click <strong>\"Allow\"</strong>.<br><br>Click the button below to start."
+  },
+  "grant_camera_initial_instructions_chrome_html": {
+    "message": "You're about to grant QR Lite access to your camera.<br><br>When asked whether to allow QR Lite to use your camera, please choose <strong>\"Allow while visiting the site\"</strong>.<br><br>Click the button below to start."
+  },
+  "grant_camera_blocked_instructions_firefox_html": {
+    "message": "It looks like QR Lite is <strong>blocked</strong> from using the camera.<br><br>To change this setting, click the <img class=\"icon icon-invert\" src=\"../icons/no-camera.svg\"></img> icon on the left of the address bar, and <strong>remove</strong> the \"Blocked\" status on the \"Use the camera\" row.<br><br>After you've done that, refresh this page."
+  },
+  "grant_camera_blocked_instructions_chrome_html": {
+    "message": "It looks like QR Lite is <strong>blocked</strong> from using the camera.<br><br>To change this setting, click the <img class=\"icon icon-invert\" src=\"../icons/no-camera.svg\"></img> icon on the address bar, and choose <strong>Always allow QR Lite - QR Code Generator and Scanner to access your camera</strong>.<br><br>After you've done that, refresh this page."
+  },
+  "grant_camera_unusable_instructions_html": {
+    "message": "It looks like the camera is inaccessible. Is there another program using the camera?<br><br>Please close other programs that might be using the camera, then refresh this page."
+  },
+  "grant_camera_unknow_error_instructions_html": {
+    "message": "An unknown error occurred when trying to acquire camera access.<br><br>Please refresh this page and try again."
+  },
+  "grant_camera_granted_instructions_html": {
+    "message": "QR Lite has been successfully granted permission to use the camera.<br><br>You may close this page now."
+  },
+  "grant_page_refresh_btn": {
+    "message": "Refresh"
+  },
+  "grant_page_dont_see_icon_btn_html": {
+    "message": "I can't find the <img class=\"icon icon-invert\" src=\"../icons/no-camera.svg\"></img> icon!"
+  },
+  "grant_page_dont_see_icon_instructions_html": {
+    "message": "Some browsers hide the icon afte a few seconds. Please click the button below to show it."
+  },
+  "grant_page_dont_see_icon_instructions_reveal_icon_btn_label": {
+    "message": "Show icon"
+  },
+  "grant_page_close_btn": {
+    "message": "Close"
+  },
+  "or": {
+    "message": "OR"
+  },
+  "scanning": {
+    "message": "Scanning..."
+  },
+  "unable_to_decode_qr_code": {
+    "message": "Unable to decode QR code"
+  },
+  "unable_to_access_camera": {
+    "message": "Unable to access the camera. Is there another program using the camera?"
+  },
+  "unable_to_access_camera_unknown_error": {
+    "message": "Unable to access the camera. An unexpected error occurred."
+  },
+  "browser_action_command_description": {
+    "message": "Show popup"
+  },
+  "select_region_to_scan_command_description": {
+    "message": "Select region to scan"
+  },
+  "scan_with_camera_command_description": {
+    "message": "Scan with camera"
+  },
+  "picker_close_btn_title": {
+    "message": "Close"
+  },
+  "select_region_to_scan_open_command_description": {
+    "message": "Select region to scan and open URL"
+  },
+  "select_region_to_scan_open_new_bg_tab_command_description": {
+    "message": "Select region to scan and open URL in new background tab"
+  },
+  "select_region_to_scan_open_new_fg_tab_command_description": {
+    "message": "Select region to scan and open URL in new foreground tab"
+  },
+  "picker_url_mode_auto_open_no": {
+    "message": "Don't automatically open URL"
+  },
+  "picker_url_mode_auto_open_in_current_tab": {
+    "message": "Auto open URL in current tab"
+  },
+  "picker_url_mode_auto_open_in_bg_tab": {
+    "message": "Auto open URL in new background tab"
+  },
+  "picker_url_mode_auto_open_in_fg_tab": {
+    "message": "Auto open URL in new foreground tab"
+  },
+  "settings_window_title": {
+    "message": "QR Lite Settings"
+  },
+  "settings_scan_success_sound_enabled_label": {
+    "message": "Play sound on successful scan"
+  },
+  "settings_scan_success_sound_enabled_explainer": {
+    "message": "Play a beep sound when a QR code is successfully scanned."
+  },
+  "settings_picker_pause_videos_onload_enabled_label": {
+    "message": "Pause all videos during \"Select region to scan\""
+  },
+  "settings_picker_pause_videos_onload_enabled_explainer": {
+    "message": "This pauses videos while you're selecting a scan region, so you don't miss any QR codes."
+  },
+  "settings_white_on_black_qr_ccode_in_dark_mode_label": {
+    "message": "Generate white QR Codes on black background in dark mode"
+  },
+  "settings_white_on_black_qr_ccode_in_dark_mode_explainer": {
+    "message": "In dark mode, generate QR Codes with a light foreground color on a dark background. Some scanners may have trouble scanning such QR Codes. The QR code you save or copy via the \"Save\" and \"Copy\" buttons will always have a white background and black foreground."
+  },
+  "settings_scanner_legend": {
+    "message": "QR Code Scanner"
+  },
+  "settings_generator_legend": {
+    "message": "QR Code Generator"
+  },
+  "tab_settings_title": {
+    "message": "Change QR Lite's settings"
+  },
+  "settings_config_keyboard_shortcuts_btn_label": {
+    "message": "Configure Keyboard Shortcuts"
+  },
+  "choose_local_image": {
+    "message": "Choose image"
+  },
+  "capture_page": {
+    "message": "Scan visible page"
+  },
+  "local_image_hint": {
+    "message": "Paste with Ctrl+V or drop an image here"
+  },
+  "local_image_invalid": {
+    "message": "Please choose an image file."
+  },
+  "capture_failed": {
+    "message": "Unable to capture this page"
+  },
+  "context_menu_scan": {
+    "message": "Scan QR code"
+  }
+}

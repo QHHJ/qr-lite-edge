@@ -1,0 +1,345 @@
+{
+  "extension_name": {
+    "message": "QR Lite - کیو آر کوڈ جنریٹر اور اسکینر"
+  },
+  "extension_short_name": {
+    "message": "QR Lite",
+    "description": "[keep-original]"
+  },
+  "extension_description": {
+    "message": "آف لائن QR کوڈ بنائیں یا اسکین کریں۔"
+  },
+  "save_image_btn": {
+    "message": "محفوظ کریں"
+  },
+  "save_image_btn_title": {
+    "message": "اس QR کوڈ کی تصویر محفوظ کریں"
+  },
+  "copy_image_btn": {
+    "message": "کاپی کریں"
+  },
+  "copy_image_btn_title": {
+    "message": "اس QR کوڈ کی تصویر کو کلپ بورڈ پر کاپی کریں"
+  },
+  "copy_image_ok": {
+    "message": "کاپی ہو گیا!"
+  },
+  "open_url_btn": {
+    "message": "URL کھولیں"
+  },
+  "open_url_btn_title": {
+    "message": "اسکین شدہ URL کو نئی ٹیب میں کھولیں"
+  },
+  "tab_generate_title": {
+    "message": "بنائیں"
+  },
+  "tab_scan_title": {
+    "message": "اسکین کریں"
+  },
+  "tab_history_title": {
+    "message": "تاریخ"
+  },
+  "clear_history_btn": {
+    "message": "صاف کریں"
+  },
+  "clear_history_btn_title": {
+    "message": "تاریخ صاف کریں"
+  },
+  "disable_history_btn_title": {
+    "message": "تاریخی ریکارڈنگ کو موقوف کریں"
+  },
+  "disable_history_btn_label": {
+    "message": "روکیں"
+  },
+  "enable_history_btn_title": {
+    "message": "تاریخی ریکارڈنگ دوبارہ شروع کریں"
+  },
+  "enable_history_btn_label": {
+    "message": "دوبارہ شروع کریں"
+  },
+  "remove_history_btn_title": {
+    "message": "اس اندراج کو تاریخ سے ہٹائیں"
+  },
+  "github_link_title": {
+    "message": "QR Lite کی Github پروجیکٹ پیج ملاحظہ کریں"
+  },
+  "toggle_generator_options_btn_label": {
+    "message": "اختیارات"
+  },
+  "toggle_generator_options_btn_title": {
+    "message": "QR کوڈ جنریٹر کے اختیارات دکھائیں/چھپائیں"
+  },
+  "error_correction_level_btn_low_title": {
+    "message": "کم، 7% ڈیٹا بائٹس بحال کیے جا سکتے ہیں"
+  },
+  "error_correction_level_btn_medium_title": {
+    "message": "درمیانہ، 15% ڈیٹا بائٹس بحال کیے جا سکتے ہیں"
+  },
+  "error_correction_level_btn_quartile_title": {
+    "message": "چوتھائی، 25% ڈیٹا بائٹس بحال کیے جا سکتے ہیں"
+  },
+  "error_correction_level_btn_high_title": {
+    "message": "زیادہ، 30% ڈیٹا بائٹس بحال کیے جا سکتے ہیں"
+  },
+  "error_correction_level_label": {
+    "message": "تصحیح:"
+  },
+  "error_correction_level_label_title": {
+    "message": "غلطی کی اصلاح کی سطح"
+  },
+  "content_length_label_title": {
+    "message": "QR کوڈ کے مواد کی لمبائی حروف میں"
+  },
+  "finder_style_label": {
+    "message": "فائنڈر اسٹائل:"
+  },
+  "finder_style_label_title": {
+    "message": "فائنڈر پیٹرنز (تین کونے کے نشان) کے لیے اسٹائل منتخب کریں"
+  },
+  "module_style_label": {
+    "message": "ماڈیول اسٹائل:"
+  },
+  "module_style_label_title": {
+    "message": "ڈیٹا ماڈیولز کے لیے اسٹائل منتخب کریں"
+  },
+  "image_size_label": {
+    "message": "امیج سائز:"
+  },
+  "image_size_label_title": {
+    "message": "QR کوڈ کے لیے امیج سائز سیٹ کریں"
+  },
+  "content_length_label": {
+    "message": "لمبائی:"
+  },
+  "content_title": {
+    "message": "QR کوڈ مواد"
+  },
+  "content_placeholder": {
+    "message": "QR کوڈ بنانے کے لیے کچھ ٹیکسٹ ٹائپ کریں"
+  },
+  "context_menu_make_qr_code_for_link": {
+    "message": "اس لنک کے لیے QR کوڈ بنائیں"
+  },
+  "context_menu_make_qr_code_for_selected_text": {
+    "message": "\"%s\" کے لیے QR کوڈ بنائیں"
+  },
+  "context_menu_scan_qr_code_in_image": {
+    "message": "تصویر میں QR کوڈ اسکین کریں"
+  },
+  "context_menu_pick_region_to_scan": {
+    "message": "اسکین کرنے کے لیے علاقہ منتخب کریں..."
+  },
+  "context_menu_scan_with_camera": {
+    "message": "کیمرے سے اسکین کریں"
+  },
+  "scan_region_picker_tips_scrollwheel": {
+    "message": "اسکرول وہیل"
+  },
+  "scan_region_picker_tips_adjust_size": {
+    "message": "سائز ایڈجسٹ کریں"
+  },
+  "scan_region_picker_tips_leftclick": {
+    "message": "بائیں کلک"
+  },
+  "scan_region_picker_tips_scan": {
+    "message": "اسکین کریں"
+  },
+  "scan_region_picker_tips_esc": {
+    "message": "Esc",
+    "description": "[keep-original]"
+  },
+  "scan_region_picker_tips_exit": {
+    "message": "باہر نکلیں"
+  },
+  "copy_btn": {
+    "message": "کاپی کریں"
+  },
+  "copy_btn_copied": {
+    "message": "کاپی ہو گیا"
+  },
+  "decoding_failed": {
+    "message": "ڈی کوڈنگ ناکام: $MSG$",
+    "placeholders": {
+      "msg": {
+        "content": "$1",
+        "default": "نامعلوم خرابی"
+      }
+    }
+  },
+  "unable_to_decode": {
+    "message": "QR کوڈ کو ڈی کوڈ کرنے میں ناکام"
+  },
+  "scan_instructions_html": {
+    "message": "کسی بھی تصویر پر رائٹ کلک کریں اور منتخب کریں<br>\"<img class=\"icon\" src=\"../icons/qrlite.svg\"></img> اس تصویر میں QR کوڈ اسکین کریں\""
+  },
+  "scan_from_clipboard_instructions_html": {
+    "message": "کلپ بورڈ تصویر کو اسکین کرنے کے لیے<br><kbd>Ctrl</kbd> + <kbd>V</kbd> <br> یا Mac پر <kbd>⌘</kbd> + <kbd>V</kbd> دبائیں"
+  },
+  "pick_region_to_scan_btn": {
+    "message": "اسکین کرنے کے لیے علاقہ منتخب کریں"
+  },
+  "camera_scan_btn": {
+    "message": "کیمرے سے اسکین کریں"
+  },
+  "rescan_btn_label": {
+    "message": "نیا اسکین"
+  },
+  "rescan_btn_title": {
+    "message": "ایک اور اسکین شروع کریں"
+  },
+  "grant_permissions_instructions_html": {
+    "message": "اس فیچر کے لیے درج ذیل اضافی اجازت درکار ہے۔<br><br><strong>$PERMISSION$</strong><br>",
+    "placeholders": {
+      "permission": {
+        "content": "$1"
+      }
+    }
+  },
+  "grant_permissions_btn": {
+    "message": "اجازت دیں"
+  },
+  "grant_camera_permission_name": {
+    "message": "آپ کے کیمرے تک رسائی"
+  },
+  "grant_permissions_window_title": {
+    "message": "اجازت دیں"
+  },
+  "grant_camera_initial_instructions_firefox_html": {
+    "message": "آپ QR Lite کو اپنے کیمرے تک رسائی کی اجازت دینے والے ہیں۔<br><br>جب آپ سے پوچھا جائے کہ کیا QR Lite کو آپ کا کیمرہ استعمال کرنے کی اجازت دینی ہے، تو براہ کرم یقینی بنائیں کہ <strong>\"تمام کیمروں کے لیے یاد رکھیں\"</strong> چیک باکس منتخب ہے، پھر <strong>\"اجازت دیں\"</strong> پر کلک کریں۔<br><br>شروع کرنے کے لیے نیچے دیئے گئے بٹن پر کلک کریں۔"
+  },
+  "grant_camera_initial_instructions_chrome_html": {
+    "message": "آپ QR Lite کو اپنے کیمرے تک رسائی کی اجازت دینے والے ہیں۔<br><br>جب آپ سے پوچھا جائے کہ کیا QR Lite کو آپ کا کیمرہ استعمال کرنے کی اجازت دینی ہے، تو براہ کرم <strong>\"سائٹ پر رہتے ہوئے اجازت دیں\"</strong> منتخب کریں۔<br><br>شروع کرنے کے لیے نیچے دیئے گئے بٹن پر کلک کریں۔"
+  },
+  "grant_camera_blocked_instructions_firefox_html": {
+    "message": "ایسا لگتا ہے کہ QR Lite <strong>بلاک</strong> ہے اور کیمرہ استعمال نہیں کر سکتا۔<br><br>اس سیٹنگ کو تبدیل کرنے کے لیے، ایڈریس بار کے بائیں طرف <img class=\"icon icon-invert\" src=\"../icons/no-camera.svg\"></img> آئیکن پر کلک کریں اور \"کیمرہ استعمال کریں\" قطار پر \"بلاک کیا گیا\" حالت کو <strong>ہٹائیں</strong>۔<br><br>ایسا کرنے کے بعد، اس صفحہ کو ریفریش کریں۔"
+  },
+  "grant_camera_blocked_instructions_chrome_html": {
+    "message": "ایسا لگتا ہے کہ QR Lite <strong>بلاک</strong> ہے اور کیمرہ استعمال نہیں کر سکتا۔<br><br>اس سیٹنگ کو تبدیل کرنے کے لیے، ایڈریس بار پر <img class=\"icon icon-invert\" src=\"../icons/no-camera.svg\"></img> آئیکن پر کلک کریں اور <strong>QR Lite - کیو آر کوڈ جنریٹر اور اسکینر کو کیمرہ تک رسائی کی ہمیشہ اجازت دیں</strong> منتخب کریں۔<br><br>ایسا کرنے کے بعد، اس صفحہ کو ریفریش کریں۔"
+  },
+  "grant_camera_granted_instructions_html": {
+    "message": "QR Lite کو کیمرہ استعمال کرنے کی اجازت کامیابی سے دی گئی ہے۔<br><br>اب آپ اس صفحہ کو بند کر سکتے ہیں۔"
+  },
+  "grant_page_refresh_btn": {
+    "message": "ریفریش کریں"
+  },
+  "grant_page_dont_see_icon_btn_html": {
+    "message": "مجھے <img class=\"icon icon-invert\" src=\"../icons/no-camera.svg\"></img> آئیکن نہیں مل رہا!"
+  },
+  "grant_page_dont_see_icon_instructions_html": {
+    "message": "کچھ براؤزر چند سیکنڈ بعد آئیکن چھپا دیتے ہیں۔ براہ کرم اسے دکھانے کے لیے نیچے والے بٹن پر کلک کریں۔"
+  },
+  "grant_page_dont_see_icon_instructions_reveal_icon_btn_label": {
+    "message": "آئیکن دکھائیں"
+  },
+  "grant_page_close_btn": {
+    "message": "بند کریں"
+  },
+  "or": {
+    "message": "یا"
+  },
+  "scanning": {
+    "message": "اسکین ہو رہا ہے..."
+  },
+  "unable_to_decode_qr_code": {
+    "message": "QR کوڈ کو ڈی کوڈ کرنے میں ناکام"
+  },
+  "browser_action_command_description": {
+    "message": "پاپ اپ دکھائیں"
+  },
+  "select_region_to_scan_command_description": {
+    "message": "اسکین کرنے کے لیے علاقہ منتخب کریں"
+  },
+  "scan_with_camera_command_description": {
+    "message": "کیمرے سے اسکین کریں"
+  },
+  "picker_close_btn_title": {
+    "message": "بند کریں"
+  },
+  "select_region_to_scan_open_command_description": {
+    "message": "اسکین کرنے اور URL کھولنے کے لیے خطہ منتخب کریں"
+  },
+  "select_region_to_scan_open_new_bg_tab_command_description": {
+    "message": "اسکین کرنے اور نئے پس منظر والے ٹیب میں URL کھولنے کے لیے خطہ منتخب کریں"
+  },
+  "select_region_to_scan_open_new_fg_tab_command_description": {
+    "message": "اسکین کرنے اور نئے پیش منظر والے ٹیب میں URL کھولنے کے لیے خطہ منتخب کریں"
+  },
+  "picker_url_mode_auto_open_no": {
+    "message": "خودکار طور پر URL نہ کھولیں"
+  },
+  "picker_url_mode_auto_open_in_current_tab": {
+    "message": "موجودہ ٹیب میں خودکار طور پر URL کھولیں"
+  },
+  "picker_url_mode_auto_open_in_bg_tab": {
+    "message": "نئے پس منظر والے ٹیب میں خودکار طور پر URL کھولیں"
+  },
+  "picker_url_mode_auto_open_in_fg_tab": {
+    "message": "نئے پیش منظر والے ٹیب میں خودکار طور پر URL کھولیں"
+  },
+  "copy_btn_title": {
+    "message": "کلپ بورڈ پر کاپی کریں"
+  },
+  "grant_permissions_error_details_summary": {
+    "message": "خرابی کی تفصیلات"
+  },
+  "grant_camera_unusable_instructions_html": {
+    "message": "ایسا لگتا ہے کہ کیمرہ ناقابل رسائی ہے۔ کیا کوئی اور پروگرام کیمرہ استعمال کر رہا ہے؟<br><br>براہ کرم دوسرے پروگرام بند کریں جو کیمرہ استعمال کر رہے ہوں، پھر اس صفحہ کو ریفریش کریں۔"
+  },
+  "grant_camera_unknow_error_instructions_html": {
+    "message": "کیمرہ تک رسائی حاصل کرنے کی کوشش کرتے وقت ایک نامعلوم خرابی پیش آئی۔<br><br>براہ کرم اس صفحہ کو ریفریش کریں اور دوبارہ کوشش کریں۔"
+  },
+  "unable_to_access_camera": {
+    "message": "کیمرہ تک رسائی حاصل کرنے سے قاصر۔ کیا کوئی اور پروگرام کیمرہ استعمال کر رہا ہے؟"
+  },
+  "settings_window_title": {
+    "message": "QR Lite ترتیبات"
+  },
+  "settings_scan_success_sound_enabled_label": {
+    "message": "کامیاب اسکین پر آواز چلائیں"
+  },
+  "settings_scan_success_sound_enabled_explainer": {
+    "message": "جب QR کوڈ کامیابی سے اسکین ہو جائے تو ایک بیپ آواز چلائیں۔"
+  },
+  "settings_white_on_black_qr_ccode_in_dark_mode_label": {
+    "message": "تاریک موڈ میں سیاہ پس منظر پر سفید QR کوڈز تیار کریں"
+  },
+  "settings_white_on_black_qr_ccode_in_dark_mode_explainer": {
+    "message": "تاریک موڈ میں، گہرے پس منظر پر ہلکے پیش منظر کے رنگ کے ساتھ QR کوڈز تیار کریں۔ کچھ سکینرز کو ایسے QR کوڈز کو اسکین کرنے میں پریشانی ہو سکتی ہے۔ \"محفوظ کریں\" اور \"کاپی کریں\" بٹنوں کے ذریعے آپ جو QR کوڈ محفوظ کرتے ہیں یا کاپی کرتے ہیں اس میں ہمیشہ سفید پس منظر اور سیاہ پیش منظر ہوگا۔"
+  },
+  "settings_scanner_legend": {
+    "message": "QR کوڈ سکینر"
+  },
+  "settings_generator_legend": {
+    "message": "QR کوڈ جنریٹر"
+  },
+  "tab_settings_title": {
+    "message": "QR Lite کی ترتیبات تبدیل کریں"
+  },
+  "settings_config_keyboard_shortcuts_btn_label": {
+    "message": "کی بورڈ شارٹ کٹس تشکیل دیں"
+  },
+  "unable_to_access_camera_unknown_error": {
+    "message": "کیمرہ تک رسائی حاصل کرنے سے قاصر۔ ایک غیر متوقع خرابی پیش آئی۔"
+  },
+  "scan_region_picker_tips_rescan": {
+    "message": "نیا اسکین"
+  },
+  "scan_region_picker_tips_open_url_mode_title": {
+    "message": "اسکین کے نتائج میں یو آر ایل کو کیسے ہینڈل کیا جائے منتخب کریں"
+  },
+  "unable_to_load_image": {
+    "message": "تصویر لوڈ کرنے سے قاصر"
+  },
+  "settings_picker_pause_videos_onload_enabled_label": {
+    "message": "\"اسکین کرنے کے لیے علاقہ منتخب کریں\" کے دوران تمام ویڈیوز کو روک دیں"
+  },
+  "settings_picker_pause_videos_onload_enabled_explainer": {
+    "message": "یہ اسکین کا علاقہ منتخب کرتے وقت ویڈیوز کو روک دیتا ہے، تاکہ آپ کوئی QR کوڈز چھوٹ نہ جائیں۔"
+  },
+  "image_scanner_failed_to_load_image": {
+    "message": "تصویر لوڈ کرنے میں ناکام۔ اس کا ماخذ ناقابل رسائی یا محدود ہو سکتا ہے۔ اس کے بجائے اسکرین کے کسی حصے کو اسکین کرنے کی کوشش کریں۔"
+  },
+  "loading_image": {
+    "message": "امیج لوڈ ہو رہی ہے..."
+  }
+}
